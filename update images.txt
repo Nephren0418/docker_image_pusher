@@ -1,1 +1,2 @@
-linuxserver/qbittorrent
+linuxserver/qbittorrent:latset
+xiaoyaliu/alist
